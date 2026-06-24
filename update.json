@@ -1,4 +1,9 @@
 {
-  "update_required": "no",
-  "download_url": "https://github.com/rayansyed2295-bit/paks/releases/download/4.4/ayan.zip"
+  "update_required": "yes",
+  "download_url": "https://github.com/rayansyed2295-bit/paks/releases/download/4.4/ayan.zip",
+  "allowed_ids": [
+    "1234567890abcdef",
+    "34535f1e50425863",
+    "abcdef1234567890"
+  ]
 }
