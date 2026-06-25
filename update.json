@@ -1,15 +1,5 @@
 {
-  "update_required": "No",
-  "download_url": "https://github.com/rayansyed2295-bit/paks/releases/download/4.4/ayan.zip",
-  "allowed_ids": [
-    "1234567890abcdef",
-    "34535f1e50425863",
-    "1d71152f4cd3f2ee",
-    "2b6ad24e8763b8f1",
-    "4ea5399ee9e90bab",
-    "b568117acd4dd262",
-    "d1123894831d5143",
-    "d4d23a849f0bfc08",
-    "abcdef1234567890"
-  ]
+  "license_key": "PUBG2026",
+  "update_required": "no",
+  "download_url": "https://github.com/rayansyed2295-bit/paks/releases/download/4.4/ayan.zip"
 }
